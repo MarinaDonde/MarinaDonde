@@ -7,7 +7,13 @@
 
 
 ![Marina Dondé's GitHub stats]("https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaDonde&layout=compact&langs_count=7&theme=panda")
+(https://github-readme-stats.vercel.app/api?username=MarinaDonde&show_icons=true&theme=panda)
 
+<div align="center">
+  <a href="https://github.com/MarinaDonde">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarinaDonde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaDonde&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Tecnologias que estou aprendendo e praticando:
 
